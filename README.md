@@ -36,4 +36,5 @@ The **News Summarization Bot** is an AI-powered application that:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-summarization-bot.git
+   git clone https://github.com/chvenkatavaibhav/New-Summarizer-aiagent.git
+.git
